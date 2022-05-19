@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Radoko</string>
+    <string name="name">Nom</string>
+    <string name="liste_des_patients">LISTE DES PATIENTS</string>
+    <string name="recent">Récent</string>
+    <string name="email">Email</string>
+</resources>
